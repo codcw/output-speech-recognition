@@ -9,5 +9,5 @@ Dependencies:
       pip install -r requirements.txt
       ```
 Usage: 
-  Set preferable model size in *recognize_worker* function
-  
+  - Set preferable model size in *recognize_worker* function
+  - Run *main.py*
